@@ -259,13 +259,7 @@ const RecognisingAndDealingWithFeelingsModuleData = [
           </ul>
           <br />
           <p>
-            Spend some time reflecting on your thinking errors. If you need
-            additional information on what these are then there is a{" "}
-            <a href="https://www.psychologytools.com/resource/unhelpful-thinking-styles/">
-              downloadable sheet
-            </a>{" "}
-            which has been created by Psychology Tools (
-            <a href="https://www.psychologytools.com">psychologytools.com</a>).
+            Spend some time reflecting on your thinking errors.
           </p>
           <br />
         </>
